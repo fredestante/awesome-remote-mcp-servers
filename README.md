@@ -987,6 +987,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Bright Data](https://brightdata.com) `https://mcp.brightdata.com/mcp`
   🔐 - Web scraping and SERP data through a managed proxy network.
 - [cnpj.ia.br](https://cnpj.ia.br/docs/mcp?utm_source=github&utm_medium=awesome-list) `https://mcp.cnpj.ia.br`
+  [![cnpj.ia.br MCP connector](https://glama.ai/mcp/connectors/br.ia.cnpj/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/br.ia.cnpj/mcp)
   🔑 - Brazilian company data (CNPJ) from Receita Federal: lookup, filtered search, phones, e-mails and partners with masked CPF; monthly base with its date in every response. Official server by Oportunidados.
 - [Corbelworks](https://corbelworks.pages.dev) `https://corbelworks.pages.dev/mcp`
   [![Corbelworks MCP connector](https://glama.ai/mcp/connectors/dev.pages.corbelworks/reliability/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pages.corbelworks/reliability)
